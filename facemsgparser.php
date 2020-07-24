@@ -1,6 +1,6 @@
 <?php 
 $path = "./facebook/messages/inbox/";
-$watchWords = ["acid","weed","smoke","cannabis","porn"];
+$watchWords = ["words","here"];
 $found = [];
 $links = [];
 $phones = [];
